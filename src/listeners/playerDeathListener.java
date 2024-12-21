@@ -8,7 +8,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;
 import org.bukkit.plugin.Plugin;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 import manager.PLAYERdatabaseManager;
 
 public class playerDeathListener implements Listener {
