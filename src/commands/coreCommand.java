@@ -377,7 +377,7 @@ public class coreCommand implements CommandExecutor, TabCompleter {
 			}
 		}
 
-		sender.sendMessage("SkyGenCore - Cortez Romeo");
+		sender.sendMessage("SkyGenCore - WindZeus");
 		sender.sendMessage(" ");
 		sender.sendMessage("        - Generator -");
 		sender.sendMessage(
