@@ -13,7 +13,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import supermine.skygencore.Main;
-import grassminevn.skygencore.Utils;
+import supermine.skygencore.Utils;
 import net.Indyuce.mmoitems.MMOItems;
 import net.Indyuce.mmoitems.api.item.mmoitem.MMOItem;
 import net.md_5.bungee.api.ChatMessageType;
