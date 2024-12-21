@@ -8,8 +8,8 @@ import org.bukkit.entity.EntityType;
 import org.bukkit.entity.Item;
 import org.bukkit.inventory.ItemStack;
 
-import grassminevn.skygencore.Main;
-import grassminevn.skygencore.Utils;
+import supermine.skygencore.Main;
+import supermine.skygencore.Utils;
 import net.Indyuce.mmoitems.MMOItems;
 import net.Indyuce.mmoitems.api.item.mmoitem.MMOItem;
 import storage.generator.generatorData;
