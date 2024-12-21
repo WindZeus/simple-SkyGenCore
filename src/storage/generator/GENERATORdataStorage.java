@@ -2,7 +2,7 @@ package storage.generator;
 
 import java.io.File;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 
 public class GENERATORdataStorage {
 
