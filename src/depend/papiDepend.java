@@ -11,7 +11,7 @@ import storage.player.playerData;
 
 public class papiDepend extends PlaceholderExpansion {
 	public String getAuthor() {
-		return "Cortez Romeo";
+		return "WindZeus";
 	}
 
 	public String getIdentifier() {
@@ -19,7 +19,7 @@ public class papiDepend extends PlaceholderExpansion {
 	}
 
 	public String getVersion() {
-		return "1.0";
+		return "2.0";
 	}
 
 	public String onPlaceholderRequest(Player player, String identifier) {
