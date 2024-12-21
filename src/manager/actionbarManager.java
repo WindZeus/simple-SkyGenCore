@@ -8,7 +8,7 @@ import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
 
 import supermine.skygencore.Main;
-import grassminevn.skygencore.Utils;
+import supermine.skygencore.Utils;
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.TextComponent;
 import storage.player.playerData;
