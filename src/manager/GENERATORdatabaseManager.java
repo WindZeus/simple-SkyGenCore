@@ -9,8 +9,8 @@ import org.bukkit.entity.ArmorStand;
 import org.bukkit.entity.Item;
 import org.bukkit.inventory.ItemStack;
 
-import grassminevn.skygencore.GeneratorDropState;
-import grassminevn.skygencore.Main;
+import supermine.skygencore.GeneratorDropState;
+import supermine.skygencore.Main;
 import storage.generator.GENERATORdataStorage;
 import storage.generator.generatorData;
 
