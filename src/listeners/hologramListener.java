@@ -5,7 +5,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerArmorStandManipulateEvent;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 import manager.GENERATORdatabaseManager;
 
 public class hologramListener implements Listener {
