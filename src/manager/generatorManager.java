@@ -9,7 +9,7 @@ import org.bukkit.block.Block;
 
 import supermine.skygencore.Generator;
 import supermine.skygencore.GeneratorDropState;
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 import storage.generator.generatorData;
 
 public class generatorManager {
