@@ -9,7 +9,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerDropItemEvent;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 
 public class playerDropListener implements Listener {
 	@SuppressWarnings("unused")
