@@ -6,7 +6,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.scheduler.BukkitRunnable;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 import manager.GENERATORdatabaseManager;
 import manager.PLAYERdatabaseManager;
 import manager.actionbarManager;
