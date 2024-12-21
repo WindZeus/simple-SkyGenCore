@@ -7,8 +7,8 @@ import java.util.Map.Entry;
 import org.bukkit.Location;
 import org.bukkit.block.Block;
 
-import grassminevn.skygencore.Generator;
-import grassminevn.skygencore.GeneratorDropState;
+import supermine.skygencore.Generator;
+import supermine.skygencore.GeneratorDropState;
 import grassminevn.skygencore.Main;
 import storage.generator.generatorData;
 
