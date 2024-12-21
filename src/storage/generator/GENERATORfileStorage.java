@@ -6,7 +6,7 @@ import java.io.IOException;
 import org.bukkit.Location;
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 
 class GENERATORfileStorage implements GENERATORstorage {
 	private static File getFile(String generator) {
