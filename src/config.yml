@@ -1,12 +1,42 @@
 # SkyGenCore
-# grassminevn
-# by Cortez Romeo
+# supermine
+# by WindZeus
 
 # Tăng bonus cho booster nếu người chơi có permission
 pickup-permission:
    1:
-      permission: 'itemgenerator.pickup.1'
+      permission: 'generator.1'
+      bonus: 1
+   2:
+      permission: 'generator.2'
       bonus: 2
+   3:
+      permission: 'generator.3'
+      bonus: 3
+   4:
+      permission: 'generator.4'
+      bonus: 4
+   5:   
+      permission: 'generator.5'
+      bonus: 5
+   6:   
+      permission: 'generator.6'
+      bonus: 6
+   7:
+      permission: 'generator.7'
+      bonus: 7
+   8:
+      permission: 'generator.8'
+      bonus: 8
+   9:
+      permission: 'generator.9'
+      bonus: 9
+   10:
+      permission: 'generator.10'
+      bonus: 10
+   11:
+      permission: 'generator.11'
+      bonus: 11
       
 generator:
    # check player xung quanh
@@ -60,9 +90,46 @@ message:
       RARE_DIAMOND: "&bRare Diamond"
       MAGIC_ESSENCE: "&5Magic Essence"
    genlist:
-       - '&e[1] &6Dirt'
-       - '&e[2] &7Stone'
-       - '&e[3] &fIron'
+       - '&6&l>>> &f&lKHU VỰC &e&l/WARP &f&lSKY &6&l<<<'
+       - '&e[&c1&e] &6Đất'
+       - '&e[&c2&e] &7Đá'
+       - '&e[&c3&e] &8Than'
+       - '&e[&c4&e] &6Đồng'
+       - '&e[&c5&e] &fSắt'
+       - '&e[&c6&e] &bKim Cương'
+       - '&e[&c7&e] &cNetherite'
+       - '&e[&c8&e] &dAmethyst'
+       - '&6&l>>> &f&lKHU VỰC &e&l/WARP &5&lOBSIDIAN &6&l<<<'
+       - '&e[&c9&e] &5Obsidian'
+       - '&e[&c10&e] &5Purple'
+       - '&e[&c11&e] &2Rừng xanh'
+       - '&e[&c12&e] &fLông vũ'
+       - '&e[&c13&e] &cDung nham'
+       - '&e[&c14&e] &bBăng'
+       - '&e[&c15&e] &8Void'
+       - '&e[&c16&e] &eDoge'
+       - '&e[&c17&e] &9Không gian'
+       - '&e[&c18&e] &7Mặt trăng'
+       - '&e[&c19&e] &5Sao chổi'
+       - '&e[&c20&e] &5Hành tinh'
+       - '&e[&c21&e] &bSao băng'
+       - '&6&l>>> &f&lKHU VỰC &e&l/WARP &5&lG&d&lA&9&lL&3&lA&e&lX&c&lY &6&l<<<'
+       - '&e[&c22&e] &5PURPLE TECHNOLOGY'
+       - '&e[&c23&e] &dPINK TECHNOLOGY'
+       - '&e[&c24&e] &9BLUE TECHNOLOGY'
+       - '&e[&c25&e] &3AQUA TECHNOLOGY'
+       - '&e[&c26&e] &eYELLOW TECHNOLOGY'
+       - '&e[&c27&e] &cRED TECHNOLOGY'
+       - '&e[&c28&e] &5&lPURPLE GLOBE'
+       - '&e[&c29&e] &d&lPINK GLOBE'
+       - '&e[&c30&e] &9&lBLUE GLOBE'
+       - '&e[&c31&e] &b&lAQUA GLOBE'
+       - '&e[&c32&e] &e&lYELLOW GLOBE'
+       - '&e[&c33&e] &c&lRED GLOBE'
+       - '&e[&c34&e] &2&lGREEN GLOBE'
+       - '&e[&c35&e] &6&lORANGE GLOBE'
+       - '&6&l>>> &f&lKHU VỰC &e&l/WARP &3&lEMPIRES &6&l<<<'
+       - '&e[&c37&e] &7Mặt trăng'
 
 # Phần thời gian hiển thị      
 time-format:
