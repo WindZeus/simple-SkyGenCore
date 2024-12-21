@@ -9,7 +9,7 @@ import java.util.Map;
 import org.bukkit.configuration.file.YamlConfiguration;
 import org.bukkit.entity.Player;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 import storage.player.PLAYERdataStorage;
 import storage.player.playerData;
 
