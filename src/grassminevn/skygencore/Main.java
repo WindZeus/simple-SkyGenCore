@@ -1,4 +1,4 @@
-package grassminevn.skygencore;
+package supermine.skygencore;
 
 import java.util.Map.Entry;
 import java.util.Set;
@@ -170,7 +170,7 @@ public class Main extends JavaPlugin {
 			}
 		}.runTaskLater(instance, 20 * 15);
 		
-		Bukkit.getConsoleSender().sendMessage(Utils.color("&a&lSkyGenCore by Cortez Romeo được chia sẻ miễn phí tại minecraftvn.net"));
+		Bukkit.getConsoleSender().sendMessage(Utils.color("&a&lSkyGenCore by WindZeus"));
 
 	}
 
