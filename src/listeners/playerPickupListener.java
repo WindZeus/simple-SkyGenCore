@@ -11,8 +11,8 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityPickupItemEvent;
 import org.bukkit.inventory.ItemStack;
 
-import grassminevn.skygencore.Main;
-import grassminevn.skygencore.Utils;
+import supermine.skygencore.Main;
+import supermine.skygencore.Utils;
 import manager.PLAYERdatabaseManager;
 import net.Indyuce.mmoitems.MMOItems;
 import net.Indyuce.mmoitems.api.item.mmoitem.MMOItem;
