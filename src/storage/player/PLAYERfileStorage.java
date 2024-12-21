@@ -5,7 +5,7 @@ import java.io.IOException;
 
 import org.bukkit.configuration.file.YamlConfiguration;
 
-import grassminevn.skygencore.Main;
+import supermine.skygencore.Main;
 
 class PLAYERfileStorage implements PLAYERstorage {
 	private static File getFile(String player) {
