@@ -8,8 +8,8 @@ import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.entity.Player;
 import org.bukkit.scheduler.BukkitRunnable;
 
-import grassminevn.skygencore.Main;
-import grassminevn.skygencore.Utils;
+import supermine.skygencore.Main;
+import supermine.skygencore.Utils;
 import storage.player.playerData;
 
 public class tempBoosterManager {
