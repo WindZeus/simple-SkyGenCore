@@ -1,4 +1,4 @@
-package grassminevn.skygencore;
+package supermine.skygencore;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Material;
