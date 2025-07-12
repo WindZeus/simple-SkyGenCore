@@ -1,4 +1,4 @@
-package supermine.skygencore;
+package grassmine.skygencore;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
