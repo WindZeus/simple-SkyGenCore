@@ -1,4 +1,4 @@
-package supermine.skygencore;
+package grassmine.skygencore;
 
 import java.util.Map.Entry;
 import java.util.Set;
