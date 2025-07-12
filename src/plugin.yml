@@ -1,5 +1,5 @@
 name: SkyGenCore
-main: supermine.skygencore.Main
+main: grassmine.skygencore.Main
 author: WindZeus
 version: 2.0
 api-version: 1.14
