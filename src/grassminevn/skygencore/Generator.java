@@ -102,7 +102,7 @@ public class Generator extends BukkitRunnable {
 					if (GENERATORdatabaseManager.generatorItemGenerator.containsKey(data)) {
 						if (GENERATORdatabaseManager.generatorItemGenerator.get(data).isSimilar(item)) {
 							generatorManager.canDrop.put(data, GeneratorDropState.ALREADY_GENERATED);
-							b.getWorld().spawnParticle(Particle.BARRIER, b.getLocation().add(0.5, 1.5, 0.5), 1);
+							b.getWorld().spawnParticle(Particle.FLAME, b.getLocation().add(0.5, 1.5, 0.5), 1);
 							canDrop = false;
 						}
 					}
