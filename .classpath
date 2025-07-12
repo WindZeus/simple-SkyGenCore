@@ -8,7 +8,7 @@
 	</classpathentry>
 	<classpathentry kind="lib" path="D:/ProjectCode/commons-io-2.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/ProjectCode/PlaceholderAPI-2.11.1.jar"/>
-	<classpathentry kind="lib" path="D:/ProjectCode/spigot-1.18.2.jar"/>
+	<classpathentry kind="lib" path="D:/ProjectCode/paper-1.18.2.jar"/>
 	<classpathentry kind="lib" path="D:/ProjectCode/MMOItems-6.9.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
